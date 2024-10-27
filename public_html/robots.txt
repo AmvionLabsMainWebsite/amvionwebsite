@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amvionlabs.com/sitemap.xml

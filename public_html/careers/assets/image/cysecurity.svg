@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.14" height="120.926" viewBox="0 0 194.14 120.926">
+    <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#30d885"/>
+      <stop offset="1" stop-color="#2fb7e1"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7913" data-name="Rectangle 7913" width="194.14" height="120.926" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_15305" data-name="Group 15305" transform="translate(0 0)">
+    <g id="Group_15304" data-name="Group 15304" transform="translate(0 0)">
+      <g id="Group_15303" data-name="Group 15303" clip-path="url(#clip-path)">
+    <path id="Path_75140" data-name="Path 75140" d="M12.284,50.376a6.142,6.142,0,1,1-6.142-6.142,6.142,6.142,0,0,1,6.142,6.142" transform="translate(0 27.91)" fill="url(#linear-gradient)"/>
+    <path id="Path_75141" data-name="Path 75141" d="M61.309,51.5a6.142,6.142,0,1,1-6.142-6.142A6.142,6.142,0,0,1,61.309,51.5" transform="translate(30.933 28.617)" fill="url(#linear-gradient)"/>
+    <path id="Path_75142" data-name="Path 75142" d="M49.9,69.533a6.752,6.752,0,0,1-13.5,0,7.813,7.813,0,0,1,3.836-6.387c-.054,2.655.822,4.033.992,6.583.067.995.489-.555.457-.848-.016-.2-.13-4.974-.2-7.649V45.9a1.664,1.664,0,0,1,3.327,0V55a18.29,18.29,0,0,0,3.246,9.9A6.845,6.845,0,0,1,49.5,67.25a7.065,7.065,0,0,1,.391,2.283" transform="translate(22.962 27.912)" fill="url(#linear-gradient)"/>
+    <path id="Path_75143" data-name="Path 75143" d="M12.077,67.25A6.845,6.845,0,0,1,13.529,64.9,18.29,18.29,0,0,0,16.775,55V45.9a1.664,1.664,0,0,1,3.327,0V61.232c-.065,2.675-.179,7.453-.2,7.649-.033.294.39,1.843.457.848.17-2.549,1.045-3.927.992-6.583a7.813,7.813,0,0,1,3.836,6.387,6.752,6.752,0,1,1-13.5,0,7.065,7.065,0,0,1,.391-2.283" transform="translate(7.373 27.912)" fill="url(#linear-gradient)"/>
+    <path id="Path_75144" data-name="Path 75144" d="M23.574,82.024a8.342,8.342,0,0,1,1.766-2.859,22.269,22.269,0,0,0,3.952-12.053V46.248a2.026,2.026,0,1,1,4.051,0V74.7c-.08,3.255-.219,9.073-.238,9.311-.041.359.475,2.246.555,1.032.209-3.1,1.274-4.78,1.207-8.013A9.509,9.509,0,0,1,39.538,84.8a8.22,8.22,0,0,1-16.44,0,8.587,8.587,0,0,1,.476-2.779" transform="translate(14.574 27.902)" fill="url(#linear-gradient)"/>
+    <path id="Path_75145" data-name="Path 75145" d="M111.5,28.52a6.142,6.142,0,1,1,6.142,6.142A6.141,6.141,0,0,1,111.5,28.52" transform="translate(70.354 14.12)" fill="url(#linear-gradient)"/>
+    <path id="Path_75146" data-name="Path 75146" d="M62.478,27.4a6.142,6.142,0,1,1,6.142,6.142A6.142,6.142,0,0,1,62.478,27.4" transform="translate(39.421 13.413)" fill="url(#linear-gradient)"/>
+    <path id="Path_75147" data-name="Path 75147" d="M74.362,17.009a6.752,6.752,0,0,1,13.5,0A7.813,7.813,0,0,1,84.03,23.4c.054-2.655-.822-4.033-.992-6.583-.067-.995-.489.555-.457.848.016.2.13,4.974.2,7.649V40.642a1.664,1.664,0,1,1-3.327,0v-9.1a18.29,18.29,0,0,0-3.246-9.9,6.845,6.845,0,0,1-1.452-2.349,7.065,7.065,0,0,1-.391-2.283" transform="translate(46.92 6.472)" fill="url(#linear-gradient)"/>
+    <path id="Path_75148" data-name="Path 75148" d="M112.181,19.293a6.845,6.845,0,0,1-1.452,2.349,18.291,18.291,0,0,0-3.246,9.9v9.1a1.664,1.664,0,1,1-3.327,0V25.311c.065-2.675.179-7.454.2-7.649.033-.294-.39-1.843-.457-.848-.17,2.549-1.045,3.927-.992,6.583a7.813,7.813,0,0,1-3.836-6.387,6.752,6.752,0,1,1,13.5,0,7.065,7.065,0,0,1-.391,2.283" transform="translate(62.508 6.472)" fill="url(#linear-gradient)"/>
+    <path id="Path_75149" data-name="Path 75149" d="M85.856,8.22a8.22,8.22,0,1,1,16.44,0A9.512,9.512,0,0,1,97.625,16c.067-3.233-1-4.911-1.205-8.015-.082-1.212-.6.675-.556,1.032.02.238.158,6.056.238,9.313V46.776a2.026,2.026,0,1,1-4.051,0V25.911A22.264,22.264,0,0,0,88.1,13.858,8.331,8.331,0,0,1,86.332,11a8.615,8.615,0,0,1-.476-2.779" transform="translate(54.172 0)" fill="url(#linear-gradient)"/>
+  </g>
+    </g>
+    <text id="CYSECURITY" transform="translate(7.771 68.37)" fill="#00E5CC" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0" letter-spacing="0.104em">C</tspan><tspan y="0" letter-spacing="0.1em">Y</tspan><tspan y="0" letter-spacing="0.119em">S</tspan><tspan y="0" letter-spacing="0.12em">E</tspan><tspan y="0" letter-spacing="0.119em">C</tspan><tspan y="0" letter-spacing="0.12em">UR</tspan><tspan y="0" letter-spacing="0.119em">I</tspan><tspan y="0" letter-spacing="0.12em">T</tspan><tspan y="0">Y</tspan></text>
+  </g>
+</svg>
